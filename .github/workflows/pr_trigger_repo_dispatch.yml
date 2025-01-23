@@ -1,5 +1,5 @@
 name: PR Trigger Repository Dispatch
-on: pull_request_target
+on: pull_request
   
 jobs:
   main:
